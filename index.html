@@ -1,0 +1,48 @@
+
+<!DOCTYPE html> 
+<html lang="de"> 
+  <head> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8"> 
+    <title>GPXViewer Beispiel 4b</title>
+    <link rel="stylesheet" href="../jb.css" type="text/css"/>
+    <script type="text/javascript">
+      var Overviewmapcontrol = true;
+			var Shtrvmitt = false;
+			var Shtrvmittwob = true;
+			var Trcolmod = "h";
+			var Fullscreenbutton = true;
+    </script>
+    <script type="text/javascript" src="GM_Utils/GPX2GM.js"></script>
+		<style type="text/css">
+		  body { width:calc(100% - 50px);padding: 10px 10px 10px 30px }
+			figure { margin:0;padding:0; }
+		  #map1 { width:54%;height:500px;height:100vh;display:inline-block;vertical-align:top }
+			#map1_profiles { width:44%;height:500px;height:100vh;margin-left:1%;display:inline-block; }
+			#map1_hp { height:36%;height:calc((100% + 64px)/3);margin-top:10px }
+			#map1_sp { height:36%;height:calc((100% + 64px)/3);margin-top:-37px }
+			#map1_vp { height:36%;height:calc((100% + 64px)/3);margin-top:-37px }
+			@media screen and (max-width:500px) {
+				#map1, #map1_profiles { width:100%;height:100vh; display:block; margin:0 }
+			}
+		</style>
+  </head>
+  <body>
+   <h1>GPXViewer with colored tracks</h1>
+	<select class="gpxview">
+		<option value="map1:combined.gpx:Oberflaeche" selected="selected">combined.gpx</option>
+		<option value="map1:day1.gpx:Oberflaeche">day2.gpx</option>
+		<option value="map1:day2.gpx:Oberflaeche">day2.gpx</option>
+	</select>
+	</br>
+     <figure id="map1" class="gpxview:combined.gpx:Oberflaeche"><noscript><p>Javascript is needed in order to view the tracks</p></noscript></figure>
+     <figure id="map1_profiles">
+       <figure id="map1_hp" class="no_x"><noscript><p>Javascript is needed in order to view the tracks</p></noscript></figure>
+       <figure id="map1_sp" class="no_x"><noscript><p>Javascript is needed in order to view the tracks</p></noscript></figure>
+       <figure id="map1_vp"><noscript><p>Javascript is needed in order to view the tracks</p></noscript></figure>
+     </figure>
+     <hr><p>Many thanks to Jürgen Berkemeier for his <a href="https://www.j-berkemeier.de/GPXViewer/">GPX-Viewer</a> scripts</p>	 
+		<p><button id="viewsource" type="button" style="position:absolute;top:0;right:0" onclick="JB.LoadScript('viewsource.js',function(){})">Quelltext anzeigen</button></p>
+		<p><img src="https://www.browser-statistik.de/browser.png?style=0" width="1" height="1" style="border: 0px;" alt="" /></p>
+  </body>
+</html>
