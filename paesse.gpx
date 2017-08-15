@@ -1,0 +1,1744 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:nmea="http://trekbuddy.net/2009/01/gpx/nmea" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:rcxx="http://www.routeconverter.de/xmlschemas/RouteCatalogExtensions/1.0" xmlns:gpxx="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+version="1.1" creator="Copyright Pässe.Info, www.paesse.info">
+    <metadata>
+        <name>Pässe © Pässe.Info</name>
+    </metadata>
+    <wpt lat="45.41721" lon="7.03067">
+        <name>2770 - F - Col de l'Iseran</name>
+    </wpt>
+    <wpt lat="46.52863" lon="10.45308">
+        <name>2758 - I - Stilfser Joch (Passo dello Stelvio)</name>
+    </wpt>
+    <wpt lat="44.68401" lon="6.97967">
+        <name>2744 - F-I - Col d'Agnel (Colle dell'Agnello)</name>
+    </wpt>
+    <wpt lat="44.32667" lon="6.80744">
+        <name>2715 - F - Col de la Bonette</name>
+    </wpt>
+    <wpt lat="44.33664" lon="6.80547">
+        <name>2680 - F - Col de Restefond (Col de la Bonette)</name>
+    </wpt>
+    <wpt lat="45.06412" lon="6.40785">
+        <name>2642 - F - Col du Galibier</name>
+    </wpt>
+    <wpt lat="44.49099" lon="6.64394">
+        <name>2632 U - F - Col (Tunnel) du Parpaillon</name>
+    </wpt>
+    <wpt lat="46.34353" lon="10.48761">
+        <name>2621 - I - Passo di Gavia</name>
+    </wpt>
+    <wpt lat="45.03291" lon="6.90923">
+        <name>2536 U - I - Monte Genevris (Assietta-Kammstrasse)</name>
+    </wpt>
+    <wpt lat="44.33993" lon="6.83141">
+        <name>2513 - F - Col de Raspaillon (Col de la Bonette)</name>
+    </wpt>
+    <wpt lat="46.90524" lon="11.09748">
+        <name>2509 - A-I - Timmelsjoch (Passo Rombo)</name>
+    </wpt>
+    <wpt lat="47.08118" lon="12.84262">
+        <name>2505 - A - Hochtor (Grossglockner Hochalpenstrasse)</name>
+    </wpt>
+    <wpt lat="46.54159" lon="10.43315">
+        <name>2503 - CH-I - Umbrail-Pass (Passo dell'Umbrail)</name>
+    </wpt>
+    <wpt lat="44.38565" lon="7.12179">
+        <name>2480 - I - Colle dei Morti (Col di Morts Fauniera)</name>
+    </wpt>
+    <wpt lat="46.47726" lon="8.38704">
+        <name>2478 - CH - Nufenen-Pass (Passo della Novena)</name>
+    </wpt>
+    <wpt lat="45.86917" lon="7.17031">
+        <name>2473 - CH-I - Grosser Sankt Bernhard (Colle del Gran San Bernardo, Col du Grand Saint Bernard)</name>
+    </wpt>
+    <wpt lat="45.07034" lon="6.95718">
+        <name>2472 U - I - Colle dell'Assietta</name>
+    </wpt>
+    <wpt lat="46.57271" lon="8.41521">
+        <name>2436 - CH - Furka-Pass</name>
+    </wpt>
+    <wpt lat="44.38165" lon="7.10122">
+        <name>2416 U - I - Colle Valcavera</name>
+    </wpt>
+    <wpt lat="46.75053" lon="9.94718">
+        <name>2383 - CH - Flüela-Pass</name>
+    </wpt>
+    <wpt lat="44.39671" lon="7.12389">
+        <name>2370 - I - Colle d'Esischie</name>
+    </wpt>
+    <wpt lat="44.81974" lon="6.73499">
+        <name>2360 - F - Col d'Izoard</name>
+    </wpt>
+    <wpt lat="44.20257" lon="7.15011">
+        <name>2350 - F-I - Col de la Lombarde (Colle della Lombarda)</name>
+    </wpt>
+    <wpt lat="46.41086" lon="10.02718">
+        <name>2330 - CH - Bernina-Pass (Passo del Bernina)</name>
+    </wpt>
+    <wpt lat="44.25919" lon="6.74397">
+        <name>2326 - F - Col de la Cayolle</name>
+    </wpt>
+    <wpt lat="46.44083" lon="10.05613">
+        <name>2315 - CH-I - Forcola di Livigno</name>
+    </wpt>
+    <wpt lat="46.58253" lon="9.83782">
+        <name>2315 - CH - Albula-Pass</name>
+    </wpt>
+    <wpt lat="46.49642" lon="10.20781">
+        <name>2291 - I - Passo Foscagno</name>
+    </wpt>
+    <wpt lat="44.55098" lon="7.11959">
+        <name>2284 - I - Colle di Sampeyre</name>
+    </wpt>
+    <wpt lat="46.47224" lon="9.72766">
+        <name>2284 - CH - Julier-Pass</name>
+    </wpt>
+    <wpt lat="44.29726" lon="6.59422">
+        <name>2250 - F - Col d'Allos</name>
+    </wpt>
+    <wpt lat="46.50824" lon="11.76719">
+        <name>2240 - I - Sellajoch (Passo Sella)</name>
+    </wpt>
+    <wpt lat="46.48754" lon="11.81226">
+        <name>2239 - I - Passo Pordoi</name>
+    </wpt>
+    <wpt lat="46.48258" lon="12.05362">
+        <name>2236 - I - Passo Giau</name>
+    </wpt>
+    <wpt lat="46.73046" lon="8.44933">
+        <name>2224 - CH - Susten-Pass</name>
+    </wpt>
+    <wpt lat="46.81887" lon="11.44106">
+        <name>2211 - I - Penserjoch (Passo Pennes)</name>
+    </wpt>
+    <wpt lat="46.53831" lon="10.16626">
+        <name>2208 - I - Passo Eira</name>
+    </wpt>
+    <wpt lat="45.67978" lon="6.88338">
+        <name>2188 - F-I - Col du Petit Saint Bernard</name>
+    </wpt>
+    <wpt lat="45.07203" lon="7.05341">
+        <name>2176 U - I - Colle delle Finestre</name>
+    </wpt>
+    <wpt lat="46.56122" lon="8.33665">
+        <name>2165 - CH - Grimsel-Pass</name>
+    </wpt>
+    <wpt lat="46.63969" lon="10.29241">
+        <name>2149 - CH - Ofen-Pass (Pass dal Fuorn)</name>
+    </wpt>
+    <wpt lat="46.54981" lon="11.80871">
+        <name>2119 - I - Grödner Joch (Passo Gardena)</name>
+    </wpt>
+    <wpt lat="46.50551" lon="9.33036">
+        <name>2113 - CH-I - Splügen-Pass (Passo dello Spluga)</name>
+    </wpt>
+    <wpt lat="44.53886" lon="6.70278">
+        <name>2109 - F - Col de Vars</name>
+    </wpt>
+    <wpt lat="46.55884" lon="8.56211">
+        <name>2106 - CH - Gotthard-Pass (Passo del San Gottardo)</name>
+    </wpt>
+    <wpt lat="46.51882" lon="12.00902">
+        <name>2105 - I - Passo Falzarego</name>
+    </wpt>
+    <wpt lat="46.83939" lon="11.32109">
+        <name>2094 - I - Jaufen-Pass (Passo Giovo)</name>
+    </wpt>
+    <wpt lat="45.25989" lon="6.90074">
+        <name>2083 - F-I - Col du Mont Cenis</name>
+    </wpt>
+    <wpt lat="44.17491" lon="6.69797">
+        <name>2080 - F - Col des Champs</name>
+    </wpt>
+    <wpt lat="45.22751" lon="6.20333">
+        <name>2067 - F - Col de la Croix de Fer</name>
+    </wpt>
+    <wpt lat="46.49587" lon="9.17063">
+        <name>2066 - CH - San-Bernardino-Pass</name>
+    </wpt>
+    <wpt lat="45.03542" lon="6.40521">
+        <name>2058 - F - Col du Lautaret</name>
+    </wpt>
+    <wpt lat="46.25139" lon="7.82938">
+        <name>2058 - CH - Moosalp</name>
+    </wpt>
+    <wpt lat="46.88769" lon="12.19981">
+        <name>2052 - A - Staller Sattel (Passo Stalle)</name>
+    </wpt>
+    <wpt lat="46.65865" lon="8.67119">
+        <name>2046 - CH - Oberalp-Pass</name>
+    </wpt>
+    <wpt lat="44.95899" lon="6.88243">
+        <name>2035 - I - Colle del Sestriere</name>
+    </wpt>
+    <wpt lat="46.91804" lon="10.09546">
+        <name>2035 - A - Bielerhöhe (Silvretta Hochalpenstrasse)</name>
+    </wpt>
+    <wpt lat="46.33863" lon="11.80101">
+        <name>2032 - I - Passo Valles</name>
+    </wpt>
+    <wpt lat="47.21362" lon="11.02357">
+        <name>2020 - A - Kühtai</name>
+    </wpt>
+    <wpt lat="46.24998" lon="8.03145">
+        <name>2005 - CH-I - Simplon-Pass</name>
+    </wpt>
+    <wpt lat="45.43489" lon="6.37547">
+        <name>2000 - F - Col de la Madeleine</name>
+    </wpt>
+    <wpt lat="44.42177" lon="6.89852">
+        <name>1997 - F-I - Col de Larche (Colle della Maddalena)</name>
+    </wpt>
+    <wpt lat="46.04714" lon="9.62282">
+        <name>1992 - I - Passo San Marco</name>
+    </wpt>
+    <wpt lat="46.67508" lon="11.81443">
+        <name>1987 - I - Würzjoch (Ju de Börz, Passo delle Erbe)</name>
+    </wpt>
+    <wpt lat="45.74282" lon="6.98801">
+        <name>1971 - I - Colle San Carlo</name>
+    </wpt>
+    <wpt lat="45.69132" lon="6.69063">
+        <name>1968 - F - Cormet de Roselend</name>
+    </wpt>
+    <wpt lat="46.86811" lon="8.85536">
+        <name>1952 - CH - Klausen-Pass</name>
+    </wpt>
+    <wpt lat="45.23961" lon="6.17556">
+        <name>1924 - F - Col du Glandon</name>
+    </wpt>
+    <wpt lat="46.56366" lon="8.80134">
+        <name>1920 - CH - Lukmanier-Pass (Passo del Lucomagno)</name>
+    </wpt>
+    <wpt lat="46.37841" lon="11.79164">
+        <name>1918 - I - Passo San Pellegrino</name>
+    </wpt>
+    <wpt lat="47.28717" lon="10.65479">
+        <name>1894 - A - Hahntennjoch</name>
+    </wpt>
+    <wpt lat="46.67871" lon="10.16052">
+        <name>1889 - CH - Ova Spin</name>
+    </wpt>
+    <wpt lat="46.25787" lon="10.58051">
+        <name>1884 - I - Passe del Tonale</name>
+    </wpt>
+    <wpt lat="46.51378" lon="11.87246">
+        <name>1875 - I - Passo Campolongo</name>
+    </wpt>
+    <wpt lat="44.14973" lon="7.56195">
+        <name>1871 U - F-I - Col de Tende (Colle di Tenda)</name>
+    </wpt>
+    <wpt lat="46.66624" lon="11.77395">
+        <name>1869 - I - Halsl (Kofeljoch, Passo di Eores)</name>
+    </wpt>
+    <wpt lat="44.93096" lon="6.72331">
+        <name>1860 - F-I - Col de Montgenèvre</name>
+    </wpt>
+    <wpt lat="46.24791" lon="10.29837">
+        <name>1852 - I - Passo Mortirolo (Passo della Foppa)</name>
+    </wpt>
+    <wpt lat="46.03661" lon="10.19933">
+        <name>1827 - I - Passo del Vivione</name>
+    </wpt>
+    <wpt lat="46.40048" lon="9.69558">
+        <name>1815 - CH - Maloja-Pass</name>
+    </wpt>
+    <wpt lat="46.55729" lon="12.20126">
+        <name>1809 - I - Passo Tre Croci</name>
+    </wpt>
+    <wpt lat="47.12992" lon="10.21061">
+        <name>1800 - A - Arlberg-Pass</name>
+    </wpt>
+    <wpt lat="46.72309" lon="11.96929">
+        <name>1789 - I - Furkel-Pass (Passo Furcia)</name>
+    </wpt>
+    <wpt lat="46.32464" lon="7.12666">
+        <name>1778 - CH - Col de la Croix</name>
+    </wpt>
+    <wpt lat="47.15798" lon="10.16481">
+        <name>1773 - A - Flexen-Pass</name>
+    </wpt>
+    <wpt lat="45.02635" lon="6.65702">
+        <name>1762 - F-I - Col de l'Echelle (Colle della Scala)</name>
+    </wpt>
+    <wpt lat="46.19999" lon="6.75926">
+        <name>1760 - F - Col de la Joux Verte</name>
+    </wpt>
+    <wpt lat="47.26655" lon="9.83288">
+        <name>1760 - A - Furkajoch</name>
+    </wpt>
+    <wpt lat="46.40415" lon="11.61042">
+        <name>1752 - I - Karer-Pass (Passo di Costalunga)</name>
+    </wpt>
+    <wpt lat="45.30065" lon="6.94745">
+        <name>1746 - F - Col de la Madeleine (Route de l'Iseran)</name>
+    </wpt>
+    <wpt lat="45.69031" lon="6.59799">
+        <name>1703 - F - Col du Pré</name>
+    </wpt>
+    <wpt lat="46.12965" lon="6.71287">
+        <name>1700 - F - Col de Joux Plane</name>
+    </wpt>
+    <wpt lat="47.23131" lon="10.92775">
+        <name>1690 - A - Sattele (Haimingjoch)</name>
+    </wpt>
+    <wpt lat="46.24328" lon="10.84043">
+        <name>1682 - I - Passo Gampo Carlo Magno</name>
+    </wpt>
+    <wpt lat="44.10024" lon="7.02303">
+        <name>1678 - F - Col de la Couillole</name>
+    </wpt>
+    <wpt lat="47.26965" lon="10.13091">
+        <name>1675 - A - Hochtannenberg-Pass</name>
+    </wpt>
+    <wpt lat="44.08957" lon="6.91929">
+        <name>1672 - F - Col de Valberg</name>
+    </wpt>
+    <wpt lat="46.10965" lon="7.15767">
+        <name>1665 U - CH - Col du Lein</name>
+    </wpt>
+    <wpt lat="45.82274" lon="10.41013">
+        <name>1664 - I - Giogo del Maniva</name>
+    </wpt>
+    <wpt lat="44.69245" lon="5.98448">
+        <name>1664 - F - Col du Noyer</name>
+    </wpt>
+    <wpt lat="46.13934" lon="6.69571">
+        <name>1656 - F - Col du Ranfolly</name>
+    </wpt>
+    <wpt lat="46.03909" lon="11.05775">
+        <name>1650 - I - Monte Bondone</name>
+    </wpt>
+    <wpt lat="45.76165" lon="6.53335">
+        <name>1650 - F - Col des Saisies</name>
+    </wpt>
+    <wpt lat="47.11804" lon="12.50439">
+        <name>1632 - A - Felbertauern (Tunnel)</name>
+    </wpt>
+    <wpt lat="46.83299" lon="9.85385">
+        <name>1631 - CH - Wolfgang-Pass</name>
+    </wpt>
+    <wpt lat="47.23697" lon="12.15823">
+        <name>1628 - A - Gerlos-Pass (Alpenstrasse Mautstelle Hochkrimml)</name>
+    </wpt>
+    <wpt lat="46.10189" lon="7.14413">
+        <name>1622 U - CH - Col du Tronc</name>
+    </wpt>
+    <wpt lat="46.15965" lon="6.58033">
+        <name>1619 - F - Col de la Ramaz</name>
+    </wpt>
+    <wpt lat="45.99224" lon="6.47574">
+        <name>1613 - F - Col de la Colombière</name>
+    </wpt>
+    <wpt lat="46.43481" lon="13.74371">
+        <name>1611 - SLO - Prelaz Vršič (Vršič-Pass)</name>
+    </wpt>
+    <wpt lat="46.81914" lon="8.09339">
+        <name>1611 - CH - Glaubenbielen-Pass (Glaubenbühlen-Pass)</name>
+    </wpt>
+    <wpt lat="46.73203" lon="7.44789">
+        <name>1609 - CH - Gurnigel (Passhöhe Stierenhütte)</name>
+    </wpt>
+    <wpt lat="43.97758" lon="7.39158">
+        <name>1607 - F - Col de Turini</name>
+    </wpt>
+    <wpt lat="46.32387" lon="12.09541">
+        <name>1605 - I - Passo Duran</name>
+    </wpt>
+    <wpt lat="45.69483" lon="6.63346">
+        <name>1605 - F - Col du Méraillet</name>
+    </wpt>
+    <wpt lat="47.11823" lon="10.66684">
+        <name>1600 - A - Pillerhöhe</name>
+    </wpt>
+    <wpt lat="45.79691" lon="6.43368">
+        <name>1581 - F - Col de l'Arpettaz</name>
+    </wpt>
+    <wpt lat="45.20272" lon="6.44463">
+        <name>1566 - F - Col du Télégraphe</name>
+    </wpt>
+    <wpt lat="46.99449" lon="8.86632">
+        <name>1550 - CH - Pragel-Pass</name>
+    </wpt>
+    <wpt lat="46.75414" lon="9.55904">
+        <name>1547 - CH - Lenzerheide (Parpan Höhe)</name>
+    </wpt>
+    <wpt lat="46.35342" lon="7.20454">
+        <name>1546 - CH - Col du Pillon</name>
+    </wpt>
+    <wpt lat="46.89348" lon="8.10805">
+        <name>1540 - CH - Glaubenberg-Pass</name>
+    </wpt>
+    <wpt lat="45.34436" lon="6.35632">
+        <name>1533 - F - Col du Chaussy</name>
+    </wpt>
+    <wpt lat="47.24301" lon="12.11065">
+        <name>1531 - A - Gerlos-Pass</name>
+    </wpt>
+    <wpt lat="46.05782" lon="7.00158">
+        <name>1527 - CH - Col de la Forclaz</name>
+    </wpt>
+    <wpt lat="46.52953" lon="11.11185">
+        <name>1518 - I - Gampen-Pass (Passo Palade)</name>
+    </wpt>
+    <wpt lat="46.59121" lon="7.34081">
+        <name>1508 - CH - Jaun-Pass</name>
+    </wpt>
+    <wpt lat="47.11942" lon="7.03217">
+        <name>1502 - CH - Col du Chasseral</name>
+    </wpt>
+    <wpt lat="45.90345" lon="5.76111">
+        <name>1501 - F - Col du Grand Colombier</name>
+    </wpt>
+    <wpt lat="44.07093" lon="7.22205">
+        <name>1500 - F - Col Saint Martin</name>
+    </wpt>
+    <wpt lat="46.74725" lon="7.38588">
+        <name>1491 - CH - Schwarzenbühl</name>
+    </wpt>
+    <wpt lat="46.03178" lon="7.10682">
+        <name>1490 - CH - Col de Champex</name>
+    </wpt>
+    <wpt lat="45.87229" lon="6.46488">
+        <name>1487 - F - Col des Aravis</name>
+    </wpt>
+    <wpt lat="47.27177" lon="9.90726">
+        <name>1486 - A - Faschinajoch</name>
+    </wpt>
+    <wpt lat="42.29033" lon="8.87851">
+        <name>1478 - F (Corse) - Col de Vergio (Bocca di Verghiu)</name>
+    </wpt>
+    <wpt lat="45.87687" lon="6.40479">
+        <name>1477 - F - Col de la Croix Fry</name>
+    </wpt>
+    <wpt lat="46.00395" lon="6.92364">
+        <name>1461 - F - Col des Montets</name>
+    </wpt>
+    <wpt lat="46.90433" lon="8.33488">
+        <name>1458 - CH - Ächerli-Pass</name>
+    </wpt>
+    <wpt lat="46.84777" lon="10.50543">
+        <name>1455 - A-I - Reschen-Pass (Passo Resia)</name>
+    </wpt>
+    <wpt lat="46.55288" lon="6.25028">
+        <name>1449 - CH - Col du Marchairuz</name>
+    </wpt>
+    <wpt lat="46.39724" lon="7.10146">
+        <name>1445 - CH - Col des Mosses</name>
+    </wpt>
+    <wpt lat="43.81448" lon="6.80329">
+        <name>1439 - F - Col de Bleine</name>
+    </wpt>
+    <wpt lat="46.58021" lon="11.62267">
+        <name>1437 - I - Panidersattel (Passo Pinei)</name>
+    </wpt>
+    <wpt lat="46.17269" lon="6.63366">
+        <name>1433 - F - Col de l'Ancrenaz</name>
+    </wpt>
+    <wpt lat="47.43721" lon="10.17691">
+        <name>1420 - D - Riedberg-Pass</name>
+    </wpt>
+    <wpt lat="46.09699" lon="7.12424">
+        <name>1411 - CH - Col des Planches</name>
+    </wpt>
+    <wpt lat="47.01743" lon="8.73321">
+        <name>1406 - CH - Ibergeregg</name>
+    </wpt>
+    <wpt lat="46.89508" lon="10.48489">
+        <name>1405 - A - Norbertshöhe</name>
+    </wpt>
+    <wpt lat="44.75899" lon="5.60483">
+        <name>1402 - F - Col de Menée</name>
+    </wpt>
+    <wpt lat="45.61358" lon="6.86444">
+        <name>1400 - F - Les Moulins</name>
+    </wpt>
+    <wpt lat="46.45137" lon="11.08246">
+        <name>1397 - I - Brezer Joch (Forcella di Brez)</name>
+    </wpt>
+    <wpt lat="46.11067" lon="8.84541">
+        <name>1395 - CH-I - Alpe di Neggia</name>
+    </wpt>
+    <wpt lat="44.87612" lon="5.92773">
+        <name>1382 - F - Col de Parquetout</name>
+    </wpt>
+    <wpt lat="47.37141" lon="10.69308">
+        <name>1373 - A - Namlos-Pass</name>
+    </wpt>
+    <wpt lat="45.00838" lon="5.96745">
+        <name>1371 - F - Col d'Ornon</name>
+    </wpt>
+    <wpt lat="47.00641" lon="11.50592">
+        <name>1370 - A-I - Brenner-Pass (Passo del Brennero)</name>
+    </wpt>
+    <wpt lat="46.24966" lon="6.84587">
+        <name>1369 - CH-F - Pas de Morgins</name>
+    </wpt>
+    <wpt lat="43.86514" lon="6.63179">
+        <name>1365 - F - Col de Saint Barnabé</name>
+    </wpt>
+    <wpt lat="46.41708" lon="11.20698">
+        <name>1363 - I - Mendel-Pass (Passo della Mendola)</name>
+    </wpt>
+    <wpt lat="47.23084" lon="7.39161">
+        <name>1361 - CH - Obergrenchenberg</name>
+    </wpt>
+    <wpt lat="44.88207" lon="5.56688">
+        <name>1352 - F - Col de l'Allimas</name>
+    </wpt>
+    <wpt lat="44.31935" lon="6.40204">
+        <name>1346 - F - Col de Maure</name>
+    </wpt>
+    <wpt lat="46.20013" lon="6.46786">
+        <name>1338 - F - Le Borbieu</name>
+    </wpt>
+    <wpt lat="44.16784" lon="7.57141">
+        <name>1337 - F-I - Tunnel del Tenda</name>
+    </wpt>
+    <wpt lat="44.90729" lon="5.35661">
+        <name>1337 - F - Col de la Chau</name>
+    </wpt>
+    <wpt lat="46.09286" lon="6.14246">
+        <name>1335 - F - Col des Pitons</name>
+    </wpt>
+    <wpt lat="44.41506" lon="6.35079">
+        <name>1332 - F - Col Saint Jean près Montclar</name>
+    </wpt>
+    <wpt lat="45.28993" lon="5.76699">
+        <name>1326 - F - Col de Porte</name>
+    </wpt>
+    <wpt lat="47.90471" lon="7.10331">
+        <name>1325 - F - Col du Grand Ballon (Grosser Belchen)</name>
+    </wpt>
+    <wpt lat="45.95246" lon="5.74886">
+        <name>1325 - F - Col de la Biche</name>
+    </wpt>
+    <wpt lat="46.37025" lon="6.01866">
+        <name>1323 - F - Col de la Faucille</name>
+    </wpt>
+    <wpt lat="44.40951" lon="6.29211">
+        <name>1322 - F - Col des Fillys</name>
+    </wpt>
+    <wpt lat="44.69148" lon="5.65391">
+        <name>1318 - F - Col de Grimone</name>
+    </wpt>
+    <wpt lat="45.17795" lon="7.38264">
+        <name>1314 - I - Colle del Lys</name>
+    </wpt>
+    <wpt lat="44.89919" lon="5.22961">
+        <name>1313 - F - Col de la Bataille</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 44.89919 E 005.22959</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="42.14419" lon="9.19027">
+        <name>1311 - F (Corse) - Col de Sorba (Bocca di Sorba)</name>
+    </wpt>
+    <wpt lat="44.21535" lon="6.14702">
+        <name>1304 - F - Col Fontbelle</name>
+    </wpt>
+    <wpt lat="44.48804" lon="6.34855">
+        <name>1301 - F - Col de Pontis</name>
+    </wpt>
+    <wpt lat="46.07925" lon="6.12641">
+        <name>1300 - F - Col du Plan</name>
+    </wpt>
+    <wpt lat="47.25338" lon="9.30329">
+        <name>1300 - CH - Schwägalp-Pass</name>
+    </wpt>
+    <wpt lat="45.92921" lon="10.09664">
+        <name>1297 - I - Passo della Presolana</name>
+    </wpt>
+    <wpt lat="42.02835" lon="9.19488">
+        <name>1296 - F (Corse) - Col de Verde (Bocca di Verde)</name>
+    </wpt>
+    <wpt lat="46.13433" lon="6.18237">
+        <name>1295 - F - Col de Grandegorge</name>
+    </wpt>
+    <wpt lat="46.78945" lon="6.45944">
+        <name>1293 - CH - Col de l'Aiguillon</name>
+    </wpt>
+    <wpt lat="46.56623" lon="12.72012">
+        <name>1292 - I - Cima di Sappada</name>
+    </wpt>
+    <wpt lat="47.07274" lon="6.86981">
+        <name>1283 - CH - Col de la Vue des Alpes</name>
+    </wpt>
+    <wpt lat="47.25514" lon="7.50826">
+        <name>1279 - CH - Weissenstein</name>
+    </wpt>
+    <wpt lat="46.51411" lon="7.30428">
+        <name>1279 - CH - Saanenmöser</name>
+    </wpt>
+    <wpt lat="47.30861" lon="12.40846">
+        <name>1273 - A - Pass Thurn</name>
+    </wpt>
+    <wpt lat="45.88709" lon="9.79776">
+        <name>1264 - I - Passo di Zambla</name>
+    </wpt>
+    <wpt lat="46.68048" lon="6.25553">
+        <name>1260 - F-CH - Col de Landoz-Neuve</name>
+    </wpt>
+    <wpt lat="47.33405" lon="11.11484">
+        <name>1259 - A - Bucher Höhe</name>
+    </wpt>
+    <wpt lat="44.84041" lon="5.40557">
+        <name>1254 - F - Col de Rousset</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 44.84059 E 005.40587</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="40.07521" lon="9.35891">
+        <name>1249 - I (Sardegna) - Passo di Correboi</name>
+    </wpt>
+    <wpt lat="40.03172" lon="9.23078">
+        <name>1248 - I (Sardegna) - Passo di Tascusì</name>
+    </wpt>
+    <wpt lat="43.78763" lon="6.84641">
+        <name>1248 - F - Col du Castellaras</name>
+    </wpt>
+    <wpt lat="44.61429" lon="6.08121">
+        <name>1246 - F - Col Bayard</name>
+    </wpt>
+    <wpt lat="46.18566" lon="6.46988">
+        <name>1245 - F - Col de l'Avernaz</name>
+    </wpt>
+    <wpt lat="44.43156" lon="6.29887">
+        <name>1242 - F - Col Charamel</name>
+    </wpt>
+    <wpt lat="44.24921" lon="6.37053">
+        <name>1240 - F - Col du Labouret</name>
+    </wpt>
+    <wpt lat="44.20126" lon="6.15103">
+        <name>1236 - F - Col d'Hysope</name>
+    </wpt>
+    <wpt lat="46.02452" lon="8.62594">
+        <name>1233 - I - Alpe Colle</name>
+    </wpt>
+    <wpt lat="47.85648" lon="8.02764">
+        <name>1233 - D - Feldberg-Pass</name>
+    </wpt>
+    <wpt lat="46.45568" lon="6.09026">
+        <name>1232 - CH-F - Col de la Givrine</name>
+    </wpt>
+    <wpt lat="46.28379" lon="6.64451">
+        <name>1230 - F - Col du Corbier</name>
+    </wpt>
+    <wpt lat="47.33119" lon="11.19897">
+        <name>1229 - A - Seefelder Sattel</name>
+    </wpt>
+    <wpt lat="47.19027" lon="7.03969">
+        <name>1227 - CH - Col du Mont Crosin</name>
+    </wpt>
+    <wpt lat="46.73094" lon="12.22777">
+        <name>1226 - A - Toblacher Sattel (Sella di Dobbiaco)</name>
+    </wpt>
+    <wpt lat="44.87252" lon="5.40702">
+        <name>1222 - F - Col de Saint-Alexis</name>
+    </wpt>
+    <wpt lat="44.91014" lon="5.55185">
+        <name>1220 - F - Col des Deux</name>
+    </wpt>
+    <wpt lat="45.13038" lon="5.55976">
+        <name>1220 - F - Col de la Croix-Perrin</name>
+    </wpt>
+    <wpt lat="41.79585" lon="9.22489">
+        <name>1218 - F (Corse) - Col de Bavella (Bocca di Bavedda)</name>
+    </wpt>
+    <wpt lat="44.00822" lon="6.32031">
+        <name>1211 - F - Col du Corobin</name>
+    </wpt>
+    <wpt lat="47.36341" lon="10.83302">
+        <name>1210 - A - Fern-Pass</name>
+    </wpt>
+    <wpt lat="44.85544" lon="5.90462">
+        <name>1208 - F - Col de l'Holme</name>
+    </wpt>
+    <wpt lat="46.85619" lon="12.85897">
+        <name>1204 - A - Iselsberg-Pass</name>
+    </wpt>
+    <wpt lat="47.90851" lon="7.89219">
+        <name>1200 - D - Schauinsland</name>
+    </wpt>
+    <wpt lat="48.06525" lon="8.01622">
+        <name>1200 - D - Kandel</name>
+    </wpt>
+    <wpt lat="44.78522" lon="5.59874">
+        <name>1197 - F - Col du Prayet</name>
+    </wpt>
+    <wpt lat="41.82278" lon="9.08419">
+        <name>1196 - F (Corse) - Col de la Vaccia</name>
+    </wpt>
+    <wpt lat="47.12734" lon="8.84682">
+        <name>1190 - CH - Sattelegg</name>
+    </wpt>
+    <wpt lat="45.48985" lon="6.24832">
+        <name>1188 - F - Col du Grand Cucheron</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 45.48988 E 006.24817</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="46.65054" lon="6.36458">
+        <name>1184 - CH - Col du Mollendruz</name>
+    </wpt>
+    <wpt lat="47.92721" lon="7.02906">
+        <name>1183 - F - Le Markstein</name>
+    </wpt>
+    <wpt lat="47.96946" lon="7.04388">
+        <name>1183 - F - Col du Platzerwasel</name>
+    </wpt>
+    <wpt lat="47.82948" lon="7.85911">
+        <name>1180 - D - Hohtannhütte Belchen</name>
+    </wpt>
+    <wpt lat="46.11221" lon="5.73062">
+        <name>1178 - F - Col de Cuvéry</name>
+    </wpt>
+    <wpt lat="47.52676" lon="10.43341">
+        <name>1178 - A-D - Oberjoch-Pass</name>
+    </wpt>
+    <wpt lat="46.07482" lon="8.77761">
+        <name>1176 - I - Passo di Forcora</name>
+    </wpt>
+    <wpt lat="46.15345" lon="10.14839">
+        <name>1176 - I - Passo Aprica</name>
+    </wpt>
+    <wpt lat="44.95666" lon="5.29476">
+        <name>1175 - F - Col de la Portette</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 44.95667 E 005.29476</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="46.11951" lon="6.17159">
+        <name>1175 - F - Col de la Croisette</name>
+    </wpt>
+    <wpt lat="45.64646" lon="6.01741">
+        <name>1173 - F - Col de Plainpalais</name>
+    </wpt>
+    <wpt lat="46.16033" lon="6.66907">
+        <name>1172 - F - Col des Gets</name>
+    </wpt>
+    <wpt lat="43.75097" lon="6.73031">
+        <name>1169 - F - Col de Valferrière</name>
+    </wpt>
+    <wpt lat="46.82616" lon="7.79674">
+        <name>1167 - CH - Schallenberg</name>
+    </wpt>
+    <wpt lat="46.98809" lon="6.79217">
+        <name>1166 - CH - Col de la Tourne</name>
+    </wpt>
+    <wpt lat="47.82058" lon="6.83469">
+        <name>1165 - F - Col du Ballon d'Alsace</name>
+    </wpt>
+    <wpt lat="42.11191" lon="9.11228">
+        <name>1163 - F (Corse) - Focce di Vizzavona</name>
+    </wpt>
+    <wpt lat="46.26851" lon="6.49213">
+        <name>1162 - F - Col des Arces</name>
+    </wpt>
+    <wpt lat="45.27278" lon="5.76554">
+        <name>1154 - F - Col de Palaquit</name>
+    </wpt>
+    <wpt lat="44.99103" lon="5.59551">
+        <name>1154 - F - Col de l'Arzelier</name>
+    </wpt>
+    <wpt lat="46.82995" lon="6.49492">
+        <name>1153 - CH - Col des Etroits</name>
+    </wpt>
+    <wpt lat="43.86546" lon="6.46396">
+        <name>1148 - F - Col de Lèques</name>
+    </wpt>
+    <wpt lat="47.15511" lon="8.65271">
+        <name>1148 - CH - Gottschalkenberg</name>
+    </wpt>
+    <wpt lat="44.91851" lon="5.18444">
+        <name>1145 - F - Col de Tourniol</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 44.91850 E 005.18445</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="47.00262" lon="7.82504">
+        <name>1144 - CH - Lüderenalp</name>
+    </wpt>
+    <wpt lat="45.59568" lon="6.05999">
+        <name>1142 - F - Col des Prés</name>
+    </wpt>
+    <wpt lat="45.36544" lon="5.83411">
+        <name>1140 - F - Col du Cucheron</name>
+    </wpt>
+    <wpt lat="47.42294" lon="9.80915">
+        <name>1140 - A - Bödele Losen-Pass</name>
+    </wpt>
+    <wpt lat="48.06381" lon="7.02282">
+        <name>1139 - F - Col de la Schlucht</name>
+    </wpt>
+    <wpt lat="45.48045" lon="5.91499">
+        <name>1134 - F - Col du Granier</name>
+    </wpt>
+    <wpt lat="48.13643" lon="7.08851">
+        <name>1134 - F - Col du Calvaire</name>
+    </wpt>
+    <wpt lat="47.67922" lon="12.03502">
+        <name>1123 - D - Sudelfeld-Pass</name>
+    </wpt>
+    <wpt lat="47.10976" lon="8.60311">
+        <name>1123 - CH - Rossalmig (Cholerhöchi)</name>
+    </wpt>
+    <wpt lat="47.87658" lon="7.90924">
+        <name>1121 - D - Notschrei</name>
+    </wpt>
+    <wpt lat="40.09719" lon="9.33518">
+        <name>1120 - I (Sardegna) - Passo di Caravai</name>
+    </wpt>
+    <wpt lat="47.30499" lon="10.89519">
+        <name>1120 - A - Holzleitnersattel</name>
+    </wpt>
+    <wpt lat="47.53448" lon="10.88624">
+        <name>1118 - A-D - Ammersattel</name>
+    </wpt>
+    <wpt lat="46.29444" lon="6.50927">
+        <name>1117 - F - Col du Feu</name>
+    </wpt>
+    <wpt lat="46.26241" lon="6.45404">
+        <name>1116 - F - Col de Cou</name>
+    </wpt>
+    <wpt lat="45.50519" lon="6.21899">
+        <name>1116 - F - Col de Champlaurent</name>
+    </wpt>
+    <wpt lat="46.27877" lon="6.46786">
+        <name>1115 - F - Col des Moises</name>
+    </wpt>
+    <wpt lat="45.98409" lon="5.63954">
+        <name>1113 - F - Col La Rochette</name>
+    </wpt>
+    <wpt lat="47.27733" lon="9.16498">
+        <name>1112 - CH - Chellen</name>
+    </wpt>
+    <wpt lat="48.05434" lon="7.00451">
+        <name>1110 - F - Le Collet</name>
+    </wpt>
+    <wpt lat="44.50677" lon="6.28388">
+        <name>1110 - F - Col Lebraut</name>
+    </wpt>
+    <wpt lat="47.40994" lon="9.53505">
+        <name>1110 - CH - Sankt Anton</name>
+    </wpt>
+    <wpt lat="47.13164" lon="6.99731">
+        <name>1110 - CH - Les Pontins</name>
+    </wpt>
+    <wpt lat="43.75945" lon="6.86136">
+        <name>1108 - F - Col de la Sine</name>
+    </wpt>
+    <wpt lat="46.87031" lon="7.72658">
+        <name>1103 - CH - Chuderhüsi</name>
+    </wpt>
+    <wpt lat="42.22337" lon="8.82988">
+        <name>1101 - F (Corse) - Col de Sevi (Bocca di Sevi)</name>
+    </wpt>
+    <wpt lat="46.24581" lon="6.48856">
+        <name>1100 - F - Col de Terramont</name>
+    </wpt>
+    <wpt lat="44.92791" lon="5.38236">
+        <name>1100 - F - Col de Proncel</name>
+    </wpt>
+    <wpt lat="44.99483" lon="5.76311">
+        <name>1097 - F - Col des Creys (Pas de Laffrey)</name>
+    </wpt>
+    <wpt lat="47.20341" lon="9.35075">
+        <name>1093 - CH - Wildhaus</name>
+    </wpt>
+    <wpt lat="47.77188" lon="8.01975">
+        <name>1090 - D - Passhöhe Rotes Kreuz</name>
+    </wpt>
+    <wpt lat="44.88679" lon="5.15851">
+        <name>1086 - F - Col des Limouches</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 44.88681 E 005.15850</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="47.26614" lon="7.53953">
+        <name>1084 - CH - Balmberg</name>
+    </wpt>
+    <wpt lat="47.76233" lon="7.97597">
+        <name>1079 - D - Weissenbachsattel (Hochkopfhaus)</name>
+    </wpt>
+    <wpt lat="47.80035" lon="7.77801">
+        <name>1079 - D - Kreuzweg</name>
+    </wpt>
+    <wpt lat="47.14182" lon="8.66371">
+        <name>1077 - CH - Raten-Pass</name>
+    </wpt>
+    <wpt lat="45.14371" lon="5.47968">
+        <name>1074 - F - Col de Romeyère</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 45.14374 E 005.47973</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="47.27481" lon="7.60006">
+        <name>1074 - CH - Bättlerchuchi</name>
+    </wpt>
+    <wpt lat="46.03216" lon="5.62201">
+        <name>1073 - F - Col de Cuvillat</name>
+    </wpt>
+    <wpt lat="44.02932" lon="6.29738">
+        <name>1065 - F - Col de Pierre Basse</name>
+    </wpt>
+    <wpt lat="47.90103" lon="7.86675">
+        <name>1064 - D - Am Giesshübel</name>
+    </wpt>
+    <wpt lat="46.68521" lon="6.33694">
+        <name>1061 - CH - Col du Mont d'Orzeires</name>
+    </wpt>
+    <wpt lat="46.00831" lon="5.74823">
+        <name>1060 - F - Col de Richemont</name>
+    </wpt>
+    <wpt lat="47.03088" lon="9.01817">
+        <name>1060 - CH - Schwammhöhe (Schwammhöchi)</name>
+    </wpt>
+    <wpt lat="47.39254" lon="9.46099">
+        <name>1057 - CH - Wissegg</name>
+    </wpt>
+    <wpt lat="46.11099" lon="5.64685">
+        <name>1056 - F - Col de Belleroche</name>
+    </wpt>
+    <wpt lat="47.45422" lon="10.62367">
+        <name>1056 - A - Gaicht-Pass</name>
+    </wpt>
+    <wpt lat="43.81866" lon="6.58695">
+        <name>1054 - F - Col de Luens</name>
+    </wpt>
+    <wpt lat="47.13639" lon="8.72181">
+        <name>1053 U - CH - Chatzenstrick</name>
+    </wpt>
+    <wpt lat="47.74489" lon="7.97537">
+        <name>1051 - D - Sankt-Antoni-Pass</name>
+    </wpt>
+    <wpt lat="47.33582" lon="7.58181">
+        <name>1051 - CH - Schelten-Pass</name>
+    </wpt>
+    <wpt lat="44.46226" lon="8.66771">
+        <name>1050 - I - Passo del Faiallo</name>
+    </wpt>
+    <wpt lat="46.28836" lon="5.79909">
+        <name>1049 - F - Col de la Croix de la Serra</name>
+    </wpt>
+    <wpt lat="45.92704" lon="8.67051">
+        <name>1046 - I - Passo del Cuvignone</name>
+    </wpt>
+    <wpt lat="46.77891" lon="6.37648">
+        <name>1046 - F - Col des Hôpitaux</name>
+    </wpt>
+    <wpt lat="43.71157" lon="6.86526">
+        <name>1041 - F - Col du Ferrier</name>
+    </wpt>
+    <wpt lat="39.91884" lon="9.13452">
+        <name>1040 - I (Sardegna) - Valico sa Casa</name>
+    </wpt>
+    <wpt lat="47.62615" lon="12.90437">
+        <name>1039 - D - Hochschwarzeck</name>
+    </wpt>
+    <wpt lat="45.33131" lon="6.02695">
+        <name>1038 - F - Col du Barrioz</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 45.33132 E 006.02694</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="41.76112" lon="9.03146">
+        <name>1036 - F (Corse) - Col de Saint-Eustache (Bocca di Sant'Ustasgiu)</name>
+    </wpt>
+    <wpt lat="46.32652" lon="6.61759">
+        <name>1035 - F - Col du Grand Taillet</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 46.32649 E 006.61765</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="47.84491" lon="7.86693">
+        <name>1035 - D - Wiedener Eck</name>
+    </wpt>
+    <wpt lat="44.95382" lon="5.28406">
+        <name>1033 - F - Col du Pionnier</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 44.95337 E 005.28466</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="43.76979" lon="6.31664">
+        <name>1031 - F - Col d'Ayen</name>
+    </wpt>
+    <wpt lat="46.23513" lon="6.52004">
+        <name>1027 - F - Col de Jambaz</name>
+    </wpt>
+    <wpt lat="47.10968" lon="8.75096">
+        <name>1022 - CH - Chälen</name>
+    </wpt>
+    <wpt lat="45.23951" lon="5.95142">
+        <name>1020 - F - Col des Mouilles</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 45.23953 E 005.95148</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="40.15862" lon="9.50796">
+        <name>1017 - I (Sardegna) - Passo Genna Silana</name>
+    </wpt>
+    <wpt lat="47.11778" lon="8.65661">
+        <name>1017 - CH - Tänndlichrütz</name>
+    </wpt>
+    <wpt lat="47.71939" lon="8.01454">
+        <name>1015 - D - Freiwaldkapelle</name>
+    </wpt>
+    <wpt lat="44.97443" lon="5.33471">
+        <name>1011 - F - Col de la Machine (Route de Combe Laval)</name>
+    </wpt>
+    <wpt lat="46.75647" lon="8.13658">
+        <name>1007 - CH - Brünig-Pass</name>
+    </wpt>
+    <wpt lat="47.39551" lon="9.50969">
+        <name>1003 - CH - Ruppen-Pass</name>
+    </wpt>
+    <wpt lat="43.87257" lon="7.39919">
+        <name>1002 - F - Col de Braus</name>
+    </wpt>
+    <wpt lat="47.45633" lon="12.64325">
+        <name>1000 - A - Griessen-Pass</name>
+    </wpt>
+    <wpt lat="41.70477" lon="9.21137">
+        <name>0992 - F (Corse) - Col Illarata (Bocca Illarata)</name>
+    </wpt>
+    <wpt lat="46.56413" lon="6.00289">
+        <name>0991 - F - Col de la Savine</name>
+    </wpt>
+    <wpt lat="47.36541" lon="7.80217">
+        <name>0991 - CH - Chilchzimmersattel (Belchen-Pass, Bölchen)</name>
+    </wpt>
+    <wpt lat="43.96143" lon="6.49308">
+        <name>0990 - F - Col des Robines</name>
+    </wpt>
+    <wpt lat="47.30654" lon="8.88701">
+        <name>0990 - CH - Schufelberger Egg</name>
+    </wpt>
+    <wpt lat="47.11431" lon="8.53766">
+        <name>0985 - CH - Zugerberg Früebüel</name>
+    </wpt>
+    <wpt lat="45.25502" lon="5.97052">
+        <name>0984 - F - Col de Lautaret</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 45.25504 E 005.97043</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="43.71119" lon="6.83683">
+        <name>0984 - F - Col de la Faye</name>
+    </wpt>
+    <wpt lat="44.51234" lon="6.10197">
+        <name>0981 - F - Col de la Sentinelle</name>
+    </wpt>
+    <wpt lat="47.23958" lon="6.90772">
+        <name>0980 - F - Col de la Vierge</name>
+    </wpt>
+    <wpt lat="46.12761" lon="5.63808">
+        <name>0979 - F - Col de Colliard</name>
+    </wpt>
+    <wpt lat="48.13632" lon="7.06133">
+        <name>0978 - F - Col du Louchpach</name>
+    </wpt>
+    <wpt lat="47.32827" lon="8.90088">
+        <name>0976 - CH - Ferenwaltsberg</name>
+    </wpt>
+    <wpt lat="47.14135" lon="8.53847">
+        <name>0975 - CH - Zugerberg Hünggigütsch-Sätteli</name>
+    </wpt>
+    <wpt lat="48.14492" lon="8.17317">
+        <name>0974 - D - Wilhelmshöhe</name>
+    </wpt>
+    <wpt lat="47.80301" lon="8.00407">
+        <name>0973 - D - Passhöhe Wacht</name>
+    </wpt>
+    <wpt lat="46.04432" lon="5.56882">
+        <name>0968 - F - Col de Pisseloup</name>
+    </wpt>
+    <wpt lat="46.11345" lon="8.52806">
+        <name>0965 - I - Passo dello Scopello</name>
+    </wpt>
+    <wpt lat="47.07787" lon="6.49722">
+        <name>0965 - F - Col du Tounet</name>
+    </wpt>
+    <wpt lat="44.17735" lon="8.04729">
+        <name>0963 - I - Colle San Bernardo</name>
+    </wpt>
+    <wpt lat="48.38352" lon="7.25747">
+        <name>0960 - F - Col de la Charbonnière</name>
+    </wpt>
+    <wpt lat="47.00355" lon="8.09108">
+        <name>0959 - CH - Rengg (Lobenalp)</name>
+    </wpt>
+    <wpt lat="45.54992" lon="6.07618">
+        <name>0958 - F - Col du Marocaz</name>
+    </wpt>
+    <wpt lat="47.39781" lon="11.26745">
+        <name>0958 - A-D - Scharnitz-Pass</name>
+    </wpt>
+    <wpt lat="48.00045" lon="6.94545">
+        <name>0956 - F - Col du Bramont</name>
+    </wpt>
+    <wpt lat="45.92418" lon="6.40961">
+        <name>0956 - F - Col de Saint-Jean-de-Sixt</name>
+    </wpt>
+    <wpt lat="48.02675" lon="6.88424">
+        <name>0955 - F - Col de Grosse Pierre</name>
+    </wpt>
+    <wpt lat="47.15733" lon="8.58678">
+        <name>0955 - CH - Brämenhöchi</name>
+    </wpt>
+    <wpt lat="48.04764" lon="6.97583">
+        <name>0954 - F - Col des Feignes sous Vologne</name>
+    </wpt>
+    <wpt lat="47.36211" lon="8.96669">
+        <name>0954 - CH - Hulftegg</name>
+    </wpt>
+    <wpt lat="45.58233" lon="6.13551">
+        <name>0950 - F - Col du Frêne</name>
+    </wpt>
+    <wpt lat="47.17344" lon="8.77221">
+        <name>0950 - CH - Etzel-Pass (Sankt Meinrad)</name>
+    </wpt>
+    <wpt lat="48.16496" lon="7.07951">
+        <name>0949 - F - Col du Bonhomme</name>
+    </wpt>
+    <wpt lat="46.24769" lon="6.39778">
+        <name>0948 - F - Col de Saxel</name>
+    </wpt>
+    <wpt lat="45.77931" lon="6.34896">
+        <name>0947 - F - Col de l'Épine</name>
+    </wpt>
+    <wpt lat="47.35757" lon="7.65626">
+        <name>0946 - CH - Passwang</name>
+    </wpt>
+    <wpt lat="47.14647" lon="8.59985">
+        <name>0946 - CH - Kisten-Pass</name>
+    </wpt>
+    <wpt lat="45.27412" lon="5.98797">
+        <name>0944 - F - Col des Ayes</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 45.27412 E 005.98797</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="47.36089" lon="9.49504">
+        <name>0943 - CH - Stoss</name>
+    </wpt>
+    <wpt lat="47.02358" lon="8.21989">
+        <name>0942 - CH - Holderchäppeli</name>
+    </wpt>
+    <wpt lat="47.60452" lon="11.63589">
+        <name>0941 - A-D - Achen-Pass</name>
+    </wpt>
+    <wpt lat="47.06083" lon="7.99946">
+        <name>0938 - CH - Twerenegg</name>
+    </wpt>
+    <wpt lat="47.09311" lon="8.66911">
+        <name>0932 - CH - Sattel (Biberegg)</name>
+    </wpt>
+    <wpt lat="47.80331" lon="7.79252">
+        <name>0929 - D - Haldenhof</name>
+    </wpt>
+    <wpt lat="47.05521" lon="7.83598">
+        <name>0929 - CH - Fritzenfluh</name>
+    </wpt>
+    <wpt lat="42.25058" lon="8.81691">
+        <name>0927 - F (Corse) - L'Acciola (Bocca à Zora)</name>
+    </wpt>
+    <wpt lat="47.78596" lon="7.72111">
+        <name>0924 - D - Eberten-Hütte</name>
+    </wpt>
+    <wpt lat="46.02517" lon="6.28755">
+        <name>0920 - F - Col des Fleuries</name>
+    </wpt>
+    <wpt lat="47.05105" lon="6.71998">
+        <name>0919 - CH-F - Col des Roches</name>
+    </wpt>
+    <wpt lat="40.03365" lon="9.14239">
+        <name>0918 - I (Sardegna) - Valico s'isca de sa Mela</name>
+    </wpt>
+    <wpt lat="44.53662" lon="5.79541">
+        <name>0914 - F - Col des Eygaux</name>
+    </wpt>
+    <wpt lat="47.79129" lon="6.74233">
+        <name>0914 - F - Col des Chevrères</name>
+    </wpt>
+    <wpt lat="45.91905" lon="5.61952">
+        <name>0914 - F - Col de la Lèbe</name>
+    </wpt>
+    <wpt lat="47.85853" lon="7.14863">
+        <name>0908 - F - Hartmannswillerkopf</name>
+    </wpt>
+    <wpt lat="45.67083" lon="6.30851">
+        <name>0907 - F - Col de Tamié</name>
+    </wpt>
+    <wpt lat="48.19255" lon="7.11387">
+        <name>0905 - F - Col des Bagenelles</name>
+    </wpt>
+    <wpt lat="46.02471" lon="5.56223">
+        <name>0903 - F - Col du Cruchon</name>
+    </wpt>
+    <wpt lat="45.77188" lon="6.13168">
+        <name>0900 - F - Col de Leschaux</name>
+    </wpt>
+    <wpt lat="47.76974" lon="7.74611">
+        <name>0893 - D - Lipple</name>
+    </wpt>
+    <wpt lat="47.98747" lon="6.81691">
+        <name>0891 - F - Col de la Croix des Moinats</name>
+    </wpt>
+    <wpt lat="47.38476" lon="8.91566">
+        <name>0888 - CH - Sternenberg</name>
+    </wpt>
+    <wpt lat="47.04497" lon="8.04236">
+        <name>0888 - CH - Steinhuserberg</name>
+    </wpt>
+    <wpt lat="43.87074" lon="6.51192">
+        <name>0887 - F - Col de Cheiron</name>
+    </wpt>
+    <wpt lat="44.11137" lon="6.14634">
+        <name>0886 - F - Col du Pas de Bonnet</name>
+    </wpt>
+    <wpt lat="47.92266" lon="6.91742">
+        <name>0884 - F - Col d'Oderen</name>
+    </wpt>
+    <wpt lat="48.08843" lon="7.11721">
+        <name>0880 - F - Col du Wettstein</name>
+    </wpt>
+    <wpt lat="43.92426" lon="7.47645">
+        <name>0879 - F - Col de Brouis</name>
+    </wpt>
+    <wpt lat="47.69858" lon="7.89913">
+        <name>0877 - D - Eckhag</name>
+    </wpt>
+    <wpt lat="48.12589" lon="8.29347">
+        <name>0875 - D - Wasserscheide Rhein-Donau</name>
+    </wpt>
+    <wpt lat="46.56651" lon="6.69668">
+        <name>0872 - CH - Col du Châlet-à-Gobet</name>
+    </wpt>
+    <wpt lat="45.72581" lon="6.44289">
+        <name>0870 - F - Col de la Forclaz</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 45.72581 E 006.44283</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="47.56185" lon="11.10108">
+        <name>0869 - D - Ettaler Sattel</name>
+    </wpt>
+    <wpt lat="47.63593" lon="12.85767">
+        <name>0868 - D - Schwarzbachwacht-Sattel</name>
+    </wpt>
+    <wpt lat="45.99458" lon="5.55106">
+        <name>0864 - F - Col de la Berche</name>
+    </wpt>
+    <wpt lat="47.74363" lon="7.90527">
+        <name>0860 - D - Ehrsberg</name>
+    </wpt>
+    <wpt lat="47.62184" lon="11.34937">
+        <name>0859 - D - Kesselberg-Pass</name>
+    </wpt>
+    <wpt lat="47.37019" lon="7.05171">
+        <name>0858 - CH - Col de Montvoie</name>
+    </wpt>
+    <wpt lat="47.38481" lon="7.21911">
+        <name>0856 - CH - Col des Rangiers</name>
+    </wpt>
+    <wpt lat="45.51272" lon="5.92605">
+        <name>0850 - F - Tunnel du Pas de la Fosse</name>
+    </wpt>
+    <wpt lat="47.61189" lon="12.01981">
+        <name>0849 - A-D - Ursprung-Pass</name>
+    </wpt>
+    <wpt lat="39.75573" lon="9.49543">
+        <name>0848 - I (Sardegna) - Genna su Ludu</name>
+    </wpt>
+    <wpt lat="47.32598" lon="9.11417">
+        <name>0848 - CH - Wasserfluh</name>
+    </wpt>
+    <wpt lat="47.34997" lon="7.74176">
+        <name>0845 - CH - Breitehöchi (Breitenhöhe)</name>
+    </wpt>
+    <wpt lat="45.82416" lon="6.33423">
+        <name>0843 - F - Col du Marais</name>
+    </wpt>
+    <wpt lat="46.04809" lon="8.89742">
+        <name>0842 - CH - Arosio</name>
+    </wpt>
+    <wpt lat="47.57264" lon="9.81678">
+        <name>0841 - A - Weienried</name>
+    </wpt>
+    <wpt lat="47.09293" lon="8.15712">
+        <name>0840 - CH - Recketschwandhöchi (Linden)</name>
+    </wpt>
+    <wpt lat="47.84551" lon="7.14332">
+        <name>0839 - F - Col de Herrenfluh</name>
+    </wpt>
+    <wpt lat="47.37871" lon="7.21125">
+        <name>0834 - CH - La Caquerelle</name>
+    </wpt>
+    <wpt lat="48.19295" lon="7.21531">
+        <name>0831 - F - Col de Fréland</name>
+    </wpt>
+    <wpt lat="39.89115" lon="9.11886">
+        <name>0830 - I (Sardegna) - Valico Ortuabis</name>
+    </wpt>
+    <wpt lat="47.21005" lon="7.19422">
+        <name>0827 - CH - Col de Pierre-Pertuis</name>
+    </wpt>
+    <wpt lat="47.21671" lon="8.32578">
+        <name>0826 - CH - Horben</name>
+    </wpt>
+    <wpt lat="47.87581" lon="7.12831">
+        <name>0825 - F - Col Amic</name>
+    </wpt>
+    <wpt lat="47.79554" lon="7.83662">
+        <name>0825 - D - Hau</name>
+    </wpt>
+    <wpt lat="40.53903" lon="9.33878">
+        <name>0824 - I (Sardegna) - Punta Nura</name>
+    </wpt>
+    <wpt lat="47.24321" lon="8.30565">
+        <name>0822 - CH - Lindenberg Schlatt</name>
+    </wpt>
+    <wpt lat="40.54899" lon="9.61342">
+        <name>0821 - I (Sardegna) - Passo Monte Albo</name>
+    </wpt>
+    <wpt lat="44.20583" lon="5.97571">
+        <name>0814 - F - Col de Mézien</name>
+    </wpt>
+    <wpt lat="48.09578" lon="6.95589">
+        <name>0813 - F - Col du Surceneux</name>
+    </wpt>
+    <wpt lat="46.04502" lon="6.25605">
+        <name>0810 - F - Col d'Évires</name>
+    </wpt>
+    <wpt lat="47.33903" lon="7.80521">
+        <name>0797 - CH - Santelhöchi</name>
+    </wpt>
+    <wpt lat="48.09893" lon="6.90524">
+        <name>0796 - F - Col de Martimpré</name>
+    </wpt>
+    <wpt lat="47.20322" lon="8.22184">
+        <name>0795 - CH - Erlosen Waldhus</name>
+    </wpt>
+    <wpt lat="46.02071" lon="5.48254">
+        <name>0793 - F - Col du Cendrier</name>
+    </wpt>
+    <wpt lat="47.69075" lon="12.49661">
+        <name>0793 - D - Maserer-Pass</name>
+    </wpt>
+    <wpt lat="47.27604" lon="8.52112">
+        <name>0793 - CH - Albis-Pass</name>
+    </wpt>
+    <wpt lat="47.66281" lon="12.54284">
+        <name>0791 - D - Seegatterl</name>
+    </wpt>
+    <wpt lat="47.08669" lon="8.63023">
+        <name>0791 - CH - Sattel Morgarten</name>
+    </wpt>
+    <wpt lat="47.26155" lon="9.03958">
+        <name>0790 - CH - Ricken-Pass</name>
+    </wpt>
+    <wpt lat="47.37285" lon="7.14135">
+        <name>0789 - CH - Col de la Croix</name>
+    </wpt>
+    <wpt lat="39.96654" lon="9.16226">
+        <name>0786 - I (Sardegna) - Passo s'Arcu</name>
+    </wpt>
+    <wpt lat="46.07448" lon="6.08575">
+        <name>0786 - F - Col du Mont Sion</name>
+    </wpt>
+    <wpt lat="47.29616" lon="8.50779">
+        <name>0786 - CH - Buchenegg</name>
+    </wpt>
+    <wpt lat="43.68503" lon="6.88265">
+        <name>0782 - F - Col du Pilon</name>
+    </wpt>
+    <wpt lat="45.23547" lon="5.75087">
+        <name>0782 - F - Col de Vence</name>
+    </wpt>
+    <wpt lat="47.11302" lon="8.41653">
+        <name>0781 - CH - Michaelskreuz</name>
+    </wpt>
+    <wpt lat="47.57471" lon="9.79891">
+        <name>0781 - A - Möggers Rucksteig</name>
+    </wpt>
+    <wpt lat="47.42868" lon="7.98686">
+        <name>0779 - CH - Saalhöhe</name>
+    </wpt>
+    <wpt lat="47.33929" lon="7.78847">
+        <name>0778 - CH - Bärenwil</name>
+    </wpt>
+    <wpt lat="48.24335" lon="7.13237">
+        <name>0772 - F - Col de Sainte-Marie-aux-Mines</name>
+    </wpt>
+    <wpt lat="48.38696" lon="7.29411">
+        <name>0768 - F - Col du Kreuzweg</name>
+    </wpt>
+    <wpt lat="43.66671" lon="6.68299">
+        <name>0762 - F - Col d'Avaye</name>
+    </wpt>
+    <wpt lat="47.16924" lon="8.23633">
+        <name>0762 - CH - Erlosen Römerswil</name>
+    </wpt>
+    <wpt lat="46.98929" lon="8.63009">
+        <name>0750 - CH - Schwyzerhöhe</name>
+    </wpt>
+    <wpt lat="47.80658" lon="7.04269">
+        <name>0748 - F - Col du Hundsruck</name>
+    </wpt>
+    <wpt lat="45.86446" lon="10.64553">
+        <name>0747 - I - Passo Ampola</name>
+    </wpt>
+    <wpt lat="47.45011" lon="7.45882">
+        <name>0747 - CH - Challhöchi</name>
+    </wpt>
+    <wpt lat="47.12131" lon="9.11811">
+        <name>0743 - CH - Kerenzerberg</name>
+    </wpt>
+    <wpt lat="48.22667" lon="7.22812">
+        <name>0742 - F - Col Haut de Ribeauvillé</name>
+    </wpt>
+    <wpt lat="46.08792" lon="6.58311">
+        <name>0742 - F - Col du Châtillon-sur-Cluses</name>
+    </wpt>
+    <wpt lat="47.28666" lon="8.27568">
+        <name>0741 - CH - Lindenberg Brandholz</name>
+    </wpt>
+    <wpt lat="44.03269" lon="6.20596">
+        <name>0734 - F - Col de l'Orme</name>
+    </wpt>
+    <wpt lat="47.35173" lon="7.76391">
+        <name>0734 - CH - Oberer Hauenstein</name>
+    </wpt>
+    <wpt lat="47.88954" lon="6.89723">
+        <name>0731 - F - Col de Bussang</name>
+    </wpt>
+    <wpt lat="48.50634" lon="7.14389">
+        <name>0727 - F - Col du Donon</name>
+    </wpt>
+    <wpt lat="47.99927" lon="7.18514">
+        <name>0722 - F - Col du Firstplan</name>
+    </wpt>
+    <wpt lat="47.12491" lon="7.93642">
+        <name>0721 - CH - Stocki</name>
+    </wpt>
+    <wpt lat="44.94881" lon="5.26927">
+        <name>0720 - F - Col de la Croix de Bouvante</name>
+        <extensions>
+            <gpxtrx:WaypointExtension>
+                <gpxtrx:Categories>
+                    <gpxtrx:Category>Map Points and Coordinates</gpxtrx:Category>
+                </gpxtrx:Categories>
+                <gpxtrx:Address>
+                    <gpxtrx:StreetAddress>N 44.94883 E 005.26936</gpxtrx:StreetAddress>
+                </gpxtrx:Address>
+            </gpxtrx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="47.49778" lon="12.17685">
+        <name>0714 - A - Steinbacher Sattel</name>
+    </wpt>
+    <wpt lat="47.02861" lon="9.52917">
+        <name>0713 - CH-FL - Sankt Luzisteig</name>
+    </wpt>
+    <wpt lat="47.09309" lon="7.97521">
+        <name>0708 - CH - Mörisegg</name>
+    </wpt>
+    <wpt lat="48.20149" lon="7.01171">
+        <name>0707 - F - Col de Mandray</name>
+    </wpt>
+    <wpt lat="46.00519" lon="12.16973">
+        <name>0706 - I - Passo San Boldo (Passo Sant Ubaldo)</name>
+    </wpt>
+    <wpt lat="43.83951" lon="7.46014">
+        <name>0706 - F - Col de Castillon</name>
+    </wpt>
+    <wpt lat="47.70187" lon="12.93347">
+        <name>0706 - D - Hallthurm-Pass</name>
+    </wpt>
+    <wpt lat="47.30214" lon="8.16588">
+        <name>0705 - CH - Wampfle</name>
+    </wpt>
+    <wpt lat="47.60026" lon="12.14832">
+        <name>0701 - A-D - Marblinger Höhe</name>
+    </wpt>
+    <wpt lat="47.38123" lon="7.86904">
+        <name>0690 - CH - Hauenstein</name>
+    </wpt>
+    <wpt lat="47.39702" lon="7.66296">
+        <name>0685 - CH - Eichhöhe</name>
+    </wpt>
+    <wpt lat="47.85985" lon="6.74709">
+        <name>0678 - F - Col des Croix</name>
+    </wpt>
+    <wpt lat="47.39101" lon="7.71367">
+        <name>0677 - CH - Sixfeld</name>
+    </wpt>
+    <wpt lat="47.43543" lon="8.03011">
+        <name>0674 - CH - Benkerjoch</name>
+    </wpt>
+    <wpt lat="43.79275" lon="7.39994">
+        <name>0673 - F - Col de Saint-Pancrace</name>
+    </wpt>
+    <wpt lat="47.21481" lon="8.61144">
+        <name>0672 - CH - Hirzel-Pass</name>
+    </wpt>
+    <wpt lat="45.96538" lon="6.14629">
+        <name>0670 - F - Col de la Frétallaz</name>
+    </wpt>
+    <wpt lat="48.58959" lon="7.31646">
+        <name>0662 - F - Col des Pandours</name>
+    </wpt>
+    <wpt lat="42.66507" lon="12.72854">
+        <name>0649 - I - Valico della Somma</name>
+    </wpt>
+    <wpt lat="47.41523" lon="8.34641">
+        <name>0648 - CH - Heitersberg</name>
+    </wpt>
+    <wpt lat="40.84271" lon="9.10311">
+        <name>0646 - I (Sardegna) - Passo del Limbara</name>
+    </wpt>
+    <wpt lat="43.86073" lon="7.42807">
+        <name>0642 - F - Col Saint-Jean près Sospel</name>
+    </wpt>
+    <wpt lat="47.28146" lon="8.08761">
+        <name>0640 - CH - Bänkelloch</name>
+    </wpt>
+    <wpt lat="48.40248" lon="7.08985">
+        <name>0636 - F - Col du Hantz</name>
+    </wpt>
+    <wpt lat="48.59923" lon="8.15482">
+        <name>0635 - D - Schönbüch-Pass</name>
+    </wpt>
+    <wpt lat="45.93191" lon="8.69203">
+        <name>0633 - I - Valico di Sant'Antonio</name>
+    </wpt>
+    <wpt lat="47.48611" lon="7.81308">
+        <name>0622 - CH - Wintersingerhöchi</name>
+    </wpt>
+    <wpt lat="47.29177" lon="8.10357">
+        <name>0622 - CH - Pfaffenberg</name>
+    </wpt>
+    <wpt lat="47.92619" lon="6.81707">
+        <name>0621 - F - Col du Ménil</name>
+    </wpt>
+    <wpt lat="47.43381" lon="8.06044">
+        <name>0621 - CH - Staffelegg</name>
+    </wpt>
+    <wpt lat="48.16218" lon="6.91731">
+        <name>0620 - F - Col du Plafond</name>
+    </wpt>
+    <wpt lat="47.30734" lon="8.08417">
+        <name>0617 - CH - Böhler Passhöchi</name>
+    </wpt>
+    <wpt lat="44.24967" lon="9.56929">
+        <name>0615 - I - Passo del Bracco</name>
+    </wpt>
+    <wpt lat="47.67061" lon="12.75655">
+        <name>0615 - A-D - Stein-Pass</name>
+    </wpt>
+    <wpt lat="47.39425" lon="7.58321">
+        <name>0613 - CH - Steinenbühlhöhe</name>
+    </wpt>
+    <wpt lat="47.41531" lon="7.73953">
+        <name>0607 - CH - Egg</name>
+    </wpt>
+    <wpt lat="47.54125" lon="8.19062">
+        <name>0602 - CH - Egg Rotberg</name>
+    </wpt>
+    <wpt lat="46.91673" lon="8.29662">
+        <name>0595 - CH - Wisserlen</name>
+    </wpt>
+    <wpt lat="45.97521" lon="10.97488">
+        <name>0584 - I - Passo San Udalrico</name>
+    </wpt>
+    <wpt lat="41.74349" lon="8.93004">
+        <name>0583 - F (Corse) - Col de Celaccia (Bocca di Cilaccia)</name>
+    </wpt>
+    <wpt lat="47.49524" lon="7.85582">
+        <name>0577 - CH - Buuseregg</name>
+    </wpt>
+    <wpt lat="47.48095" lon="8.13876">
+        <name>0569 - CH - Bözberg</name>
+    </wpt>
+    <wpt lat="47.34919" lon="8.46025">
+        <name>0564 - CH - Whisky-Pass</name>
+    </wpt>
+    <wpt lat="45.07508" lon="5.35409">
+        <name>0560 - F - Col de Toutes Aures</name>
+    </wpt>
+    <wpt lat="48.34429" lon="7.10755">
+        <name>0556 - F - Col de Saales</name>
+    </wpt>
+    <wpt lat="46.14025" lon="8.90565">
+        <name>0554 - CH - Monte Ceneri</name>
+    </wpt>
+    <wpt lat="47.04109" lon="8.55677">
+        <name>0554 - CH - Bernerhöchi</name>
+    </wpt>
+    <wpt lat="47.36251" lon="8.36742">
+        <name>0552 - CH - Mutschellen</name>
+    </wpt>
+    <wpt lat="47.52825" lon="8.15929">
+        <name>0550 - CH - Bürersteig</name>
+    </wpt>
+    <wpt lat="42.67694" lon="9.38286">
+        <name>0536 - F (Corse) - Col de Teghime (Bocca di Teghime)</name>
+    </wpt>
+    <wpt lat="44.48538" lon="8.73484">
+        <name>0532 - I - Passo del Turchino</name>
+    </wpt>
+    <wpt lat="47.42527" lon="8.45056">
+        <name>0531 - CH - Gubrist</name>
+    </wpt>
+    <wpt lat="44.43191" lon="8.47916">
+        <name>0522 - I - Colle de Giovo</name>
+    </wpt>
+    <wpt lat="47.45119" lon="7.76975">
+        <name>0521 - CH - Ramlinsburg</name>
+    </wpt>
+    <wpt lat="43.73433" lon="7.34657">
+        <name>0513 - F - Col d'Èze</name>
+    </wpt>
+    <wpt lat="42.16394" lon="8.78769">
+        <name>0493 - F (Corse) - Col Saint-Antoine (Vico)</name>
+    </wpt>
+    <wpt lat="43.88466" lon="7.50247">
+        <name>0477 - F-I - Col de Vescavo</name>
+    </wpt>
+    <wpt lat="44.33259" lon="8.35071">
+        <name>0455 - I - Colle di Cadibona</name>
+    </wpt>
+    <wpt lat="39.30557" lon="9.39097">
+        <name>0430 - I (Sardegna) - Valico Arcu e Tidu</name>
+    </wpt>
+    <wpt lat="43.82658" lon="7.35044">
+        <name>0420 - F - Col de Nice</name>
+    </wpt>
+    <wpt lat="42.36394" lon="8.64839">
+        <name>0408 - F (Corse) - Col de Palmarella (Bocca di Palmarella)</name>
+    </wpt>
+    <wpt lat="42.02209" lon="8.73434">
+        <name>0404 - F (Corse) - Col San Bastiano (Bocca di San Bastianu)</name>
+    </wpt>
+    <wpt lat="43.71686" lon="7.31231">
+        <name>0337 - F - Col des Quatre Chemins</name>
+    </wpt>
+    <wpt lat="41.61548" lon="8.95027">
+        <name>0295 - F (Corse) - Bocca Albitrina</name>
+    </wpt>
+    <wpt lat="41.99351" lon="8.72697">
+        <name>0282 - F (Corse) - Bocca di Carbinica</name>
+    </wpt>
+    <wpt lat="42.32681" lon="8.63238">
+        <name>0260 - F (Corse) - Col de la Croix (Bocca à Croce)</name>
+    </wpt>
+    <wpt lat="42.00126" lon="8.75659">
+        <name>0246 - F (Corse) - Col de Linstincone (Bocca di Llinstincone)</name>
+    </wpt>
+    <wpt lat="41.49781" lon="8.94913">
+        <name>0151 - F (Corse) - Bocca di Roccapina</name>
+    </wpt>
+    <wpt lat="41.41253" lon="9.12368">
+        <name>0133 - F (Corse) - Bocca d'Arbia</name>
+    </wpt>
+</gpx>

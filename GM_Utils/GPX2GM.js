@@ -1,7 +1,7 @@
 // GPX2GM.js
 // Darstellung von GPS-Daten aus einer GPX-Datei in Google Maps
 // Version 5.19.1
-// 29. 5. 2017 Jürgen Berkemeier
+// 29. 5. 2017 JÃ¼rgen Berkemeier
 // www.j-berkemeier.de
 
 "use strict";
@@ -47,17 +47,18 @@ JB.setgc = function() {
 	JB.gc.showmaptypecontroll = (typeof(Showmaptypecontroll)!="undefined") ? Showmaptypecontroll : true;
 	JB.gc.scrollwheelzoom = (typeof(Scrollwheelzoom)!="undefined") ? Scrollwheelzoom : true;
 	JB.gc.fullscreenbutton = (typeof(Fullscreenbutton)!="undefined") ? Fullscreenbutton : false;
-	JB.gc.trafficbutton = (typeof(Trafficbutton)!="undefined") ? Trafficbutton : false;
-	JB.gc.trafficonload = (typeof(Trafficonload)!="undefined") ? Trafficonload : true;
+	JB.gc.currentlocationbutton = (typeof(Currentlocationbutton)!="undefined") ? Currentlocationbutton : false; // ---------------------------
+	JB.gc.trafficbutton = (typeof(Trafficbutton)!="undefined") ? Trafficbutton : false; // --------------------------------------
+	JB.gc.trafficonload = (typeof(Trafficonload)!="undefined") ? Trafficonload : true; // --------------------------------------
 	JB.gc.legende = (typeof(Legende)!="undefined") ? Legende : true;
 	JB.gc.legende_fnm = (typeof(Legende_fnm)!="undefined") ? Legende_fnm  : true;
 	JB.gc.legende_rr = (typeof(Legende_rr)!="undefined") ? Legende_rr  : true;
 	JB.gc.legende_trk = (typeof(Legende_trk)!="undefined") ? Legende_trk : true;
 	JB.gc.legende_rte = (typeof(Legende_rte)!="undefined") ? Legende_rte : true;
 	JB.gc.legende_wpt = (typeof(Legende_wpt)!="undefined") ? Legende_wpt : true;
-	JB.gc.gpxtracks = (typeof(Gpxtracks)!="undefined") ? Gpxtracks : true;
-	JB.gc.gpxrouten = (typeof(Gpxrouten)!="undefined") ? Gpxrouten : true;
-	JB.gc.gpxwegpunkte = (typeof(Gpxwegpunkte)!="undefined") ? Gpxwegpunkte : true;
+	JB.gc.gpxtracks = (typeof(Gpxtracks)!="undefined") ? Gpxtracks : true; // --------------------------------------
+	JB.gc.gpxrouten = (typeof(Gpxrouten)!="undefined") ? Gpxrouten : true; // --------------------------------------
+	JB.gc.gpxwegpunkte = (typeof(Gpxwegpunkte)!="undefined") ? Gpxwegpunkte : true; // --------------------------------------
 	JB.gc.tracks_verbinden = (typeof(Tracks_verbinden)!="undefined") ? Tracks_verbinden : false;    
 	JB.gc.tracks_dateiuebergreifend_verbinden = (typeof(Tracks_dateiuebergreifend_verbinden)!="undefined") ? Tracks_dateiuebergreifend_verbinden : false;
 	if(JB.gc.tracks_dateiuebergreifend_verbinden) JB.gc.tracks_verbinden = true;
@@ -77,7 +78,7 @@ JB.setgc = function() {
 	JB.gc.shwpshadow = (typeof(Shwpshadow)!="undefined") ? Shwpshadow : true;
 	JB.gc.wpcluster = (typeof(Wpcluster)!="undefined") ? Wpcluster : false;
 	JB.gc.bildpfad = (typeof(Bildpfad)!="undefined") ? Bildpfad : "";
-	JB.gc.gpxpfad = (typeof(Gpxpfad)!="undefined") ? Gpxpfad : ""; 
+	JB.gc.gpxpfad = (typeof(Gpxpfad)!="undefined") ? Gpxpfad : ""; //>-----------------------------------------------------
 	JB.gc.bildwegpunkticon = (typeof(Bildwegpunkticon)!="undefined") ? Bildwegpunkticon : "Bild"; // Bei "" Icon aus sym-Tag
 	JB.gc.shtrcmt = (typeof(Shtrcmt)!="undefined") ? Shtrcmt : false;
 	JB.gc.shtrdesc = (typeof(Shtrdesc)!="undefined") ? Shtrdesc : false;
@@ -121,12 +122,12 @@ JB.setgc = function() {
 	JB.gc.plotmarkercol = (typeof(Plotmarkercol)!="undefined") ? Plotmarkercol : "black";
 	JB.gc.profilfillopac = (typeof(Profilfillopac)!="undefined") ? Profilfillopac : 0; //   0 ... 1, 0:aus
 	JB.gc.trcolmod = (typeof(Trcolmod)!="undefined") ? Trcolmod : ""; // h s v hr cad
-	JB.gc.tcols = ["#ff0000","#00ff00","#0000ff","#eeee00","#ff00ff","#00ffff","#000000"]; // Trackfarben in #rrggbb für rot grün blau
+	JB.gc.tcols = ["#ff0000","#00ff00","#0000ff","#eeee00","#ff00ff","#00ffff","#000000"]; // Trackfarben in #rrggbb fÃ¼r rot grÃ¼n blau
 	JB.gc.rcols = ["#800000","#008000","#000080","#808000","#800080","#008080","#808080"]; // Routenfarben
 	JB.gc.ocol = "#000000";   // Track- und Routenfarbe bei Mouseover
-	JB.gc.owidth = (typeof(Owidth)!="undefined") ? Owidth : 3.0;  // Linienstärke Track und Route bei Mouseover
-	JB.gc.twidth = (typeof(Twidth)!="undefined") ? Twidth : 2.0;  // Linienstärke Track
-	JB.gc.rwidth = (typeof(Rwidth)!="undefined") ? Rwidth : 2.0;  // Linienstärke Route
+	JB.gc.owidth = (typeof(Owidth)!="undefined") ? Owidth : 3.0;  // LinienstÃ¤rke Track und Route bei Mouseover
+	JB.gc.twidth = (typeof(Twidth)!="undefined") ? Twidth : 2.0;  // LinienstÃ¤rke Track
+	JB.gc.rwidth = (typeof(Rwidth)!="undefined") ? Rwidth : 2.0;  // LinienstÃ¤rke Route
 	JB.gc.topac = (typeof(Topac)!="undefined") ? Topac : 0.8;   // Transparenz Trackfarbe
 	JB.gc.ropac = (typeof(Ropac)!="undefined") ? Ropac : 0.8;   // Transparenz Routenfarbe
 	JB.gc.popup_Pars = "width=900,height=790,screenX=970,screenY=0,status=yes,scrollbars=yes";
@@ -870,7 +871,7 @@ JB.makeMap = function (ID) {
 			JB.Wait(ID,["gra","plot"], function() { 
 			  if(!FB) FB = new JB.farbbalken(odiv);
 				FB.create(0,30,10,coltab,min,max,profil[colmod+"p"].ytext);
-				JB.Debug_Info(id,"Farbbalken für "+colmod+" erstellt.",false);
+				JB.Debug_Info(id,"Farbbalken fÃ¼r "+colmod+" erstellt.",false);
 				fb_onresize = JB.onresize(odiv,function(w,h) {
 					FB.del();
 					FB.create(0,30,10,coltab,min,max,profil[colmod+"p"].ytext);
@@ -1602,7 +1603,7 @@ JB.lpgpx = function(fns,id,callback) {
 		var anzfehl=0,nf=false,fehlst_n,fehlst=[],kflag = false;
 		for(var i=0;i<npt;i++) {
 			if(daten[i][y] == "nf") {              // Fehlstelle?
-				anzfehl ++;                         // Zählen
+				anzfehl ++;                         // ZÃ¤hlen
 				if(!nf) {                           // erste Fehlstelle im Block
 					fehlst_n = {s:i,e:npt-1};
 					nf = true;
@@ -1759,7 +1760,7 @@ JB.lpgpx = function(fns,id,callback) {
 					var dateni = {lat:lat,lon:lon,t:t,h:h,v:v,hr:hr,cad:cad,tabs:tabs};
 					daten.push(dateni);
 				} // Trackdaten erfassen
-				if(!hflag) hflag = korr(daten,"h"); // Höhen korrigieren
+				if(!hflag) hflag = korr(daten,"h"); // HÃ¶hen korrigieren
 				if(!hrflag) hrflag = korr(daten,"hr"); // Puls korrigieren
 				cadflag &= cadfound;
 				var tracklen = 0;
@@ -2193,8 +2194,9 @@ if(JB.GPX2GM.autoload) {
 	}
 	else {
 		window.onload = function() { 
-			document.querySelectorAll("div[class*='gpxview:'],figure[class*='gpxview:']")[0].innerHTML = "<p style='font-weight:bold;padding:2em;text-align:center;background-color:#fb5'>Leider wird Ihr Browser vom GPX-Viewer nicht mehr unterstützt.</p>";
-			console.error("Leider wird Ihr Browser vom GPX-Viewer nicht mehr unterstützt.");
+			document.querySelectorAll("div[class*='gpxview:'],figure[class*='gpxview:']")[0].innerHTML = "<p style='font-weight:bold;padding:2em;text-align:center;background-color:#fb5'>Leider wird Ihr Browser vom GPX-Viewer nicht mehr unterstÃ¼tzt.</p>";
+			console.error("Leider wird Ihr Browser vom GPX-Viewer nicht mehr unterstÃ¼tzt.");
 		}
 	}
 }
+
